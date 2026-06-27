@@ -1,0 +1,32 @@
+basic libraries used in this :
+
+```
+opencv-python
+face-recognition
+numpy
+pandas
+flask
+```
+
+---
+
+## 🧪 Explanation of Each Library
+- **opencv-python** → Webcam access, image capture, drawing rectangles/text.  
+- **face-recognition** → Face detection + 128‑dimensional encodings.  
+- **numpy** → Array operations for image data.  
+- **pandas** → Attendance CSV handling.  
+- **flask** → Web interface (dashboard.html, index.html).  
+
+---
+
+## 🎯 How to Use
+1. Project folder me ek file banao: `requirements.txt`.  
+2. Upar listed lines copy‑paste karo.  
+3. Jab koi user project clone kare, wo simply run kare:
+   ```bash
+   pip install -r requirements.txt
+   ```
+   👉 Ye automatically sab libraries install kar dega.
+
+---
+
